@@ -1,6 +1,9 @@
+html{
+	height: 	100%;
+}
 #bg{
 	background-image: url("wp2704840-best-background.jpg");
 	background:url("wp2704840-best-background.jpg")  ;
-	background-repeat: no-repeat;	
-	background-position: bottom-right;	 
+	background-repeat: round;	
+	background-position: center;	 
 }
