@@ -16,12 +16,14 @@ h1{
 }		
 
 div{
-	width: 	33%
+	width: 	33%;
+	height: 33%;
 	background-color : #00FFFF;
 }
 
 p {
 	width: 	33%;
+	height: 33%;
 	float: 	right;
 	color: white;
 }
