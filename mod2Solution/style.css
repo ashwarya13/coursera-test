@@ -1,55 +1,86 @@
-html, body{
-	height: 100%;
-	width: 	100%;
+html,body{
+	height:95%;
+	}
+body{
+	background-image: url("Black-and-Gold-Wallpapers-Images-Download.jpg")
 }
-
 * {
 	box-sizing: border-box;	
 	margin: 	0;
 	padding: 	0;
 }
 #bg{
-	height: 33.33%;
+	height: 32%;
 	width: 	100%;
-	background-color: 	white;
-	overflow: 	visible;
-	margin: 	1.33%;
+
 }
 
 h1{
-	margin: 	50px;
 	text-align:center;	
 	color: gold;
+	margin:75px;
 }		
 
-#cor{
+#conone{
 	height: 70%;
 	width: 	32%;
 	float: 	left;
 	color: black;
-	background-color: 	yellow;	
+	background-color: 	#C0C0C0;	
 	border: 	1px solid black;
-	overflow: 	visible;
 	position: 	relative;	
-	margin-right: 1.33%
+	margin-right: 0.66%;
+	margin-left: 0.66%;
+	font-family: Helvetica;
+}
+#contwo{
+	height: 70%;
+	width: 	32%;
+	float: 	left;
+	color: black;
+	background-color: 	#C0C0C0;	
+	border: 	1px solid black;
+	position: 	relative;	
+	margin-right: 0.66%;
+	margin-left: 0.66%;
+	font-family: Helvetica;
+
+}
+#conthree{
+	height: 70%;
+	width: 	32%;
+	float: 	left;
+	color: black;
+	background-color: 	#C0C0C0;	
+	border: 	1px solid black;
+	position: 	relative;
+	margin-left: 	0.66%;
+	margin-right: 	0.66%;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: Helvetica;
 }
 
 #tt{
-	background-color: #DFAADE;
+	background-color: 	#845422;
 	height: 15%;
 	width: 30%;
 	position: 	absolute;
 	top:0;
 	right: 0;
 	clear:right;
+	border:1px solid black;
 	text-align: 	center;
 	text-orientation: bold;
 	font-size: 25px;
 	font-weight: bold;
+	color:gold;
 }
 section{
  position: 	absolute;
  top:50px;	
  padding: 10px;
-
  }
+
+ .col-md-12 {
+    width: 100%;}
